@@ -2,8 +2,6 @@ bike_sharing_analysis_using_decision_tree
 
 Use a decision tree model to predict the future bike sharing demand
 
-PERFORM AND EXPLAIN YOUR EXPLORATORY ANALYSIS IN THIS SECTION
-
 Dataset explain:
 
 1.This dataset is from Kaggle, and it is about a bike sharing system.
